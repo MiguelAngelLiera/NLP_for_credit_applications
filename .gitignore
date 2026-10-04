@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+#extra
+/bert_model
+/NLP
+*.pt
+*.pth 
